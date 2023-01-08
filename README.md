@@ -1,9 +1,9 @@
 # SE4ML-Tooklit
 Security for Machine Learning(SE4ML) 人工智能+计算机安全交叉领域科研工具🔧 | Toolkit for Security, Robustness and Reliability of the Machine Learning.
 
-**关键词：** Security, Software Engineering, Software Security, Security and Reliability of the Machine Learning, Security and Robustness of Machine Learning.
+**研究方向：** Security, Relability and Robustness of the Machine Learning.
 
-**概括：** Security, Relability and Robustness of the Machine Learning.
+**关键词：** Security; Software Engineering; Software Security; Security and Reliability of the Machine Learning; Security and Robustness of Machine Learning;
 
 
 
@@ -42,23 +42,19 @@ Security for Machine Learning(SE4ML) 人工智能+计算机安全交叉领域科
 
 ---
 
-**[哥伦比亚大学·软件系统实验室(Software Systems Lab, SSL)](https://systems.cs.columbia.edu/)：**
+**哥伦比亚大学·软件系统实验室 | [(Software Systems Lab, SSL)](https://systems.cs.columbia.edu/)：**
 
 - **成员：**
   - Junfeng Yang：http://www.cs.columbia.edu/~junfeng/
   - Suman Jana：http://www.cs.columbia.edu/~suman/
   - Kexin Peng：https://sites.google.com/site/kexinpeisite/
 - **论文：**
-  - Kexin Pei, Yinzhi Cao, Junfeng Yang, Suman Jana. **DeepXplore: Automated Whitebox Testing of Deep Learning Systems.** [SOSP-2017 Best paper/CCF-A Conference]
-    https://arxiv.org/abs/1705.06640
-    https://github.com/peikexin9/deepxplore
-  - Yuchi Tian, Kexin Pei, Suman Jana, Baishakhi Ray. **DeepTest: Automated Testing of Deep-Neural-Network-driven Autonomous Cars.** [ICSE-2018/CCF-A Conference]
-    https://arxiv.org/abs/1708.08559
-    https://github.com/ARiSE-Lab/deepTest
+  - **[SOSP-2017]** Kexin Pei, Yinzhi Cao, Junfeng Yang, Suman Jana. **DeepXplore: Automated Whitebox Testing of Deep Learning Systems.** （CCF-A会议/SOSP最佳论文）[[pdf](https://arxiv.org/abs/1705.06640)] [[code](https://github.com/peikexin9/deepxplore)]
+  - **[ICSE-2018]** Yuchi Tian, Kexin Pei, Suman Jana, Baishakhi Ray. **DeepTest: Automated Testing of Deep-Neural-Network-driven Autonomous Cars.** （CCF-A会议）[[pdf](https://arxiv.org/abs/1708.08559)] [[code](https://github.com/ARiSE-Lab/deepTest)]
 
 ---
 
-**[阿尔伯塔机器智能研究所(Alberta Machine Intelligent Institute, Amii)](https://www.amii.ca/about/our-people/)：**
+**阿尔伯塔机器智能研究所 | [(Alberta Machine Intelligent Institute, Amii)](https://www.amii.ca/about/our-people/)：**
 
 - **成员：**
   - Lei Ma：https://scholar.google.com/citations?user=xsfGc58AAAAJ 
