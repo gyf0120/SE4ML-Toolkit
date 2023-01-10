@@ -12,7 +12,41 @@
   - **摘要：**
     深度强化学习的评估本质上具有挑战性。特别是学习策略的不透明性（opaqueness of learned policies）以及智能体和环境的随机性质（stochastic nature），导致了深度强化学习智能体的行为测试变得困难。我们提出了一个基于搜索的测试框架，可以实现广泛的新颖分析功能（analysis capabilities），用于评估DRL智能体的安全和性能。对于安全测试，我们使用了一个搜索算法（a search algorithm）来搜索解决RL任务的参考根据（reference trace）。搜索的回溯状态（backtracking states），称为边界状态（boundary states），构成安全临界状况（safety-critical situations）。我们创建了安全测试套件（safety test-suites），用于评估RL智能体在这些边界状态附近逃脱（escapes）安全临界情况。对于鲁棒性的性能测试，我们通过模糊测试（fuzz testing）创建了一组不同的跟踪。这些模糊轨迹用于将智能体带入各种可能未知的状态，从中将智能体的平均性能与模糊轨迹的平均性能进行比较，我们将基于搜索的测试方法应用于任天堂的超级马里奥兄弟的RL。
 
+## 2021
 
+- **[NeurIPS-2021]** Rishabh Agarwal, Max Schwarzer, Pablo Samuel Castro, Aaron C. Courville, Marc Bellemare. **Deep Reinforcement Learning at the Edge of the Statistical Precipice.** [[pdf](https://proceedings.neurips.cc/paper/2021/hash/f514cec81cb148559cf475e7426eed5e-Abstract.html)] [[code](https://github.com/google-research/rliable)] （CCF-A会议/NeurIPS-2021杰出论文奖）
+
+  - **摘要：**
+
+    Deep reinforcement learning (RL) algorithms are predominantly evaluated by comparing their relative performance on a large suite of tasks. 深度强化学习算法主要（predominantly）通过比较它们在大量任务（a large suite of tasks）中的相对性能（relative performance）来评估。大多数已发表的深度RL基准测试结果比较了总体表现（aggregate performance）的点估计值（point etimates），例如任务重的平均值和中值，却忽略了使用有限次训练时所隐含的统计的不确定性（statistical uncertainty implied ）。从街机学习环境（ALE）开始，向计算要求高的基准的转变导致了对每个任务只评估少量运行的做法，加剧了点估计值的统计不确定性。
+
+    ……（待更新）
+
+
+
+## 2018
+
+- **[ICSE-2018]** DeepTest: automated testing of deepneural-network-driven autonomous cars
+
+
+
+- [ASE-2018] DeepGauge: multi-granularity testing criteria for deep learning systems. [[pdf](https://dl.acm.org/doi/abs/10.1145/3238147.3238202)] [[code](https://deepgauge.github.io/)]
+
+  - **摘要：**
+
+    Deep learning (DL) defines a new data-driven programming paradigm that constructs the internal system logic of a crafted neuron network through a set of training data. 
+
+    深度学习定义了一种新的数据驱动的编程范式（programming paradigm），通过一组训练数据，构建精心制作的神经元网络的内部系统逻辑。
+
+    We have seen wide adoption of DL in many safety-critical scenarios. 
+
+    我们已经看到DL被广泛应用到了许多安全关键场景中。
+
+    However, a plethora of studies have shown that the state-of-the-art DL systems suffer from various vulnerabilities which can lead to severe consequences when applied to real-world applications. 
+
+    
+
+    Currently, the testing adequacy of a DL system is usually measured by the accuracy of test data. Considering the limitation of accessible high quality test data, good accuracy performance on test data can hardly provide confidence to the testing adequacy and generality of DL systems. Unlike traditional software systems that have clear and controllable logic and functionality, the lack of interpretability in a DL system makes system analysis and defect detection difficult, which could potentially hinder its real-world deployment. In this paper, we propose DeepGauge, a set of multi-granularity testing criteria for DL systems, which aims at rendering a multi-faceted portrayal of the testbed. The in-depth evaluation of our proposed testing criteria is demonstrated on two well-known datasets, five DL systems, and with four state-of-the-art adversarial attack techniques against DL. The potential usefulness of DeepGauge sheds light on the construction of more generic and robust DL systems.
 
 ## 2017
 
