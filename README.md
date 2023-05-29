@@ -39,7 +39,6 @@ Security for Machine Learning(SE4ML) 人工智能+计算机安全交叉领域科
 - InforSec：http://www.inforsec.org/wp/?page_id=309
 
 
-
 ---
 
 **哥伦比亚大学·软件系统实验室 | [(Software Systems Lab, SSL)](https://systems.cs.columbia.edu/)：**
@@ -64,12 +63,6 @@ Security for Machine Learning(SE4ML) 人工智能+计算机安全交叉领域科
   - Lei Ma, Felix Juefei-Xu, Fuyuan Zhang, Jiyuan Sun, Minhui Xue, Bo Li, Chunyang Chen, Ting Su, Li Li, Yang Liu, Jianjun Zhao, Yadong Wang. **DeepGauge: Multi-Granularity Testing Criteria for Deep Learning Systems.** [ASE-2018/CCF-A Conference]
     https://dl.acm.org/doi/abs/10.1145/3238147.3238202   
   - Jie M Zhang, Mark Harman, Lei Ma, Yang Liu. **Machine learning testing: Survey, landscapes and horizons.** [TSE/CCF-A Journal]
-
-
-
-
-
-
 
 
 
@@ -100,3 +93,26 @@ Security for Machine Learning(SE4ML) 人工智能+计算机安全交叉领域科
 - [14] Jianmin Guo, Yu Jiang, Yue Zhao, Quan Chen, Jiaguang Sun. **DLFuzz: Differential Fuzzing Testing of Deep Learning Systems.** [FSE/ESEC-2018/CCF-A Conference]
   https://dl.acm.org/doi/abs/10.1145/3236024.3264835
 - [15] Sakshi Udeshi, Pryanshu Arora, Sudipta Chattopadhyay. **Automated Directed Fairness Testing.** [ASE-2018/CCF-A Conference]
+
+---
+
+**李慧云团队：**
+
+**相关论文：**
+
+- [1] Zeng Z, Wu M, Zeng W, et al. Deep recognition of vanishing-point-constrained building planes in urban street views[J]. IEEE Transactions on Image Processing, 2020, 29: 5912-5923.
+  https://ieeexplore.ieee.org/abstract/document/9068429
+
+- [2] Jiang R, Liu Z, Li H. Evolution towards optimal driving strategies for large‐scale autonomous vehicles[J]. IET Intelligent Transport Systems, 2021, 15(8): 1018-1027.
+  https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12076
+
+- [3] Yin G G, Kan S, Xu C Z. Identification of systems with regime switching and unmodeled dynamics[J]. IEEE Transactions on Automatic Control, 2009, 54(1): 34-47.
+  https://ieeexplore.ieee.org/abstract/document/4749433
+
+- [4] Li W, Du H, Li W. Four-wheel electric braking system configuration with new braking torque distribution strategy for improving energy recovery efficiency[J]. IEEE Transactions on Intelligent Transportation Systems, 2019, 21(1): 87-103.
+  https://ieeexplore.ieee.org/abstract/document/8613088
+
+  ​
+
+  ​
+
