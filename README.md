@@ -100,16 +100,19 @@ Security for Machine Learning(SE4ML) 人工智能+计算机安全交叉领域科
 
 **相关论文：**
 
-- [1] Zeng Z, Wu M, Zeng W, et al. Deep recognition of vanishing-point-constrained building planes in urban street views[J]. IEEE Transactions on Image Processing, 2020, 29: 5912-5923.
+- [1] Zeng Z, Wu M, Zeng W, Fu C W. **Deep recognition of vanishing-point-constrained building planes in urban street views.** [IEEE Trans Image Process-2020/SCI-1区，CCF-A Journal]
   https://ieeexplore.ieee.org/abstract/document/9068429
 
-- [2] Jiang R, Liu Z, Li H. Evolution towards optimal driving strategies for large‐scale autonomous vehicles[J]. IET Intelligent Transport Systems, 2021, 15(8): 1018-1027.
+- [2] Jiang R, Liu Z, Li H. **Evolution towards optimal driving strategies for large‐scale autonomous vehicles.** [IET Intell. Transp. Syst-2021/SCI-4区, CCF-C Journal]
   https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12076
 
-- [3] Yin G G, Kan S, Xu C Z. Identification of systems with regime switching and unmodeled dynamics[J]. IEEE Transactions on Automatic Control, 2009, 54(1): 34-47.
+- [3] Yin G G, Kan S, Xu C Z. **Identification of systems with regime switching and unmodeled dynamics.** [IEEE Trans. Automat. Contr-2009/SCI-2区]
+
   https://ieeexplore.ieee.org/abstract/document/4749433
 
-- [4] Li W, Du H, Li W. Four-wheel electric braking system configuration with new braking torque distribution strategy for improving energy recovery efficiency[J]. IEEE Transactions on Intelligent Transportation Systems, 2019, 21(1): 87-103.
+
+- [4] Li W, Du H, Li W. **Four-wheel electric braking system configuration with new braking torque distribution strategy for improving energy recovery efficiency.** [IEEE trans Intell Transp Syst-2019/SCI-1区，CCF-B Journal]
+
   https://ieeexplore.ieee.org/abstract/document/8613088
 
   ​
